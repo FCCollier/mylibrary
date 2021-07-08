@@ -1,0 +1,2 @@
+D:\HSU\mycode\mylibrary4\mylibrary\obj\Debug\mylibrary.csproj.AssemblyReference.cache
+D:\HSU\mycode\mylibrary4\mylibrary\obj\Debug\mylibrary.csproj.CoreCompileInputs.cache
